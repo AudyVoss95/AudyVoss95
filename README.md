@@ -1,40 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Audrey Giopato 👋
 
-<!--
-**AudyVoss95/AudyVoss95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Audrey Giopato 👋
-
-**Software Engineering Student @ 42 | Tech Educator & Course Coordinator | Game Dev Background**
+**Software Engineering Student @ 42 | Tech Educator & Course Coordinator | Game Dev Degree**
 
 ---
 
 ### 🚀 About Me
-- 🎓 **Education:** Digital Games (Degree) | Software Engineering (42 School)
-- 🏫 **Current Role:** Technical Teacher & Course Coordinator in Systems Development
-- 🛠️ **Core Focus:** Low-level programming (C), Linux/Unix environments, Software Architecture, and Peer Learning
-- 🎧 **Past Experience:** Technical Support (Call Center)
+
+- 🎓 **Education:** Software Engineering Student at **42 School** | Degree in **Digital Games**.
+- 🏫 **Current Role:** Technical Teacher & Course Coordinator in Systems Development.
+- 🛠️ **Core Focus:** Low-level programming (C), Linux/Unix systems, automated testing workflows, and AI-assisted prototyping.
+- 🎧 **Background:** Technical Support / IT Support in high-volume environments.
+- 🤝 **Methodologies:** Peer-to-Peer Learning, Code Review, and Project-Based Learning.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
-- **Languages:** C, Python, Shell/Bash
-- **OS & Tools:** Linux/Unix, Git/GitHub, Vim, Terminal Environments
-- **Concepts:** Memory Management, Pointers, Peer-to-Peer Learning, Code Review, Automated Testing
+
+- **Languages:** C, Python, Shell/Bash (Zsh/CLI)
+- **Environments & Tools:** Linux/Unix, Git/GitHub, Vim, Docker, Vercel
+- **Concepts:** Memory Management, Pointers, Operating Systems, Automation & Testing, Technical Pedagogy
+
+---
+
+### 📌 Featured Repositories
+
+- 🛠️ **[42cursus_audgiova](https://github.com/AudyVoss95/42cursus_audgiova):** Low-level C programming, memory allocation, and Unix system utilities built during the 42 School software engineering curriculum.
+- 🎓 **[Examullator-myprototype](https://github.com/AudyVoss95/Examullator-myprototype):** Interactive web-based exam simulator prototype built via AI-assisted workflows and live on Vercel.
 
 ---
 
 ### 📫 Connect with Me
-- LinkedIn: www.linkedin.com/in/audrey-voss-giopato
-- Email: audrey.giovanna@gmail.com
+
+- 💼 **LinkedIn:** (www.linkedin.com/in/audrey-voss-giopato)
+- 📧 **Email:** (audrey.giovanna@gmail.com)
+
+---
+*“Continuously learning, building tools, and helping others master software engineering.”*
